@@ -11,4 +11,4 @@ Disclaimer: It relies on your coworkers to actually report when the milk is low.
 * Bower
 
 # Notes
-Last updated in 2017, but there are a lot of ideas I still want to add someday. Like honk sound customization or intergration is iOS Banner notifications.
+Last updated in 2017, but there are a lot of ideas I still want to add someday. Like honk sound customization or integration is iOS Banner notifications.
