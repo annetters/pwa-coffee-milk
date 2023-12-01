@@ -6,7 +6,7 @@ It's a web app that will emit a HONK 📣 when someone reports that the milk is 
 Disclaimer: It relies on your coworkers to actually report when the milk is low. This code cannot fix any inconsiderate coworkers. You'll also need to allow permissions in your browser to allow the honk notifications.
 
 # Tech
-* Firebase
+* Firebase (https://firebase.google.com)
 * Progressive web app (PWA)
 * Bower
 
